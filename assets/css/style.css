@@ -260,7 +260,7 @@ section.pt-25 {
     width: 100%;    ;
 }*/
 header#stickey-menu {
-    background: #fff;
+    background: #002873;
     z-index: 1000;
 }
 .main-menu {
@@ -315,8 +315,7 @@ a.logo.text-logo {
 .main-menu .navbar-nav li a {
     padding: 10px 15px;
     font-size: 16px;
-    color: #444;
-    display: block;
+    color: #fff;
     transition: all 0.4s ease-in-out;
     font-weight: 400;
     margin-left: 5px;
