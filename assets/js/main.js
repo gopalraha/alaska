@@ -152,7 +152,7 @@ var themeApp = {
 
             var d = document, s = d.createElement('script');
 
-            s.src = 'https://themeix-com-3.disqus.com/embed.js';
+            s.src = 'https://techbrown.disqus.com/embed.js';
 
             s.setAttribute('data-timestamp', +new Date());
 
