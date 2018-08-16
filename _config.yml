@@ -7,6 +7,8 @@ description:            "Themeix is a awesome company for selling jekyll,ghost,h
 baseurl:                "https://www.tuxwp.com"
 url:                    "https://www.tuxwp.com"
 
+permalink: /:title:output_ext.shtml
+
 # Build settings
 markdown:               kramdown
 theme:                  minima
