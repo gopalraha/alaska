@@ -7,8 +7,6 @@ description:            "Themeix is a awesome company for selling jekyll,ghost,h
 baseurl:                "https://www.tuxwp.com"
 url:                    "https://www.tuxwp.com"
 
-permalink:               /:title.shtml
-
 # Build settings
 markdown:               kramdown
 theme:                  minima
@@ -17,7 +15,7 @@ plugins:
   - jekyll-paginate
 
 paginate:               6
-permalink:              pretty
+permalink:              /:title.shtml
 mailchimp_link:         "//themeix.us16.list-manage.com/subscribe?u=4b7aa1c5c5ac54be844d58bcb&id=0e85c09412"
 
 # social links
