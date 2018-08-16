@@ -4,8 +4,8 @@ title:                  "Appix Jekyll Template"
 email:                  "themeix@gmail.com"
 description:            "Themeix is a awesome company for selling jekyll,ghost,html, blogging and wordpress websites."
 
-baseurl:                "http://www.tuxwp.com"
-url:                    "http://www.tuxwp.com"
+baseurl:                "https://www.tuxwp.com"
+url:                    "https://www.tuxwp.com"
 
 # Build settings
 markdown:               kramdown
