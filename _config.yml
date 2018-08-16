@@ -15,7 +15,8 @@ plugins:
   - jekyll-paginate
 
 paginate:               6
-permalink:              pretty
+permalink:              /:categories/:year/:month/:day/:title.shtml
+
 mailchimp_link:         "//themeix.us16.list-manage.com/subscribe?u=4b7aa1c5c5ac54be844d58bcb&id=0e85c09412"
 
 # social links
